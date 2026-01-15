@@ -9,6 +9,7 @@ fastapi==0.128.0
 greenlet==3.3.0
 h11==0.16.0
 httpcore==1.0.9
+httptools==0.7.1
 httpx==0.28.1
 idna==3.11
 Mako==1.3.10
@@ -16,10 +17,15 @@ MarkupSafe==3.0.3
 marshmallow==4.1.2
 psycopg2-binary==2.9.11
 pydantic==2.12.5
+pydantic-settings==2.12.0
 pydantic_core==2.41.5
 python-dotenv==1.2.1
+python-multipart==0.0.21
+PyYAML==6.0.3
 SQLAlchemy==2.0.45
 starlette==0.50.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 uvicorn==0.40.0
+watchfiles==1.1.1
+websockets==15.0.1
